@@ -1,4 +1,4 @@
-# Voice-Controlled-Wheel-chair with Environmental Mapping\
+# # Voice-Controlled-Wheel-chair with Environmental Mapping
 
 ![alt text](https://github.com/gaganchapa/Voice_Controlled_Wheel_Chair/blob/main/chair.jpg)
 
