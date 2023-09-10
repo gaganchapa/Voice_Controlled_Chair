@@ -1,4 +1,7 @@
-# Voice-Controlled-Wheel-chair with Environmental Mapping
+# Voice-Controlled-Wheel-chair with Environmental Mapping\
+
+![alt text](https://github.com/gaganchapa/Voice_Controlled_Wheel_Chair/blob/main/chair.jpg)
+
 # Introduction
 This project aims to create a voice-controlled wheelchair that can also perform environmental mapping using an ultrasonic sensor and an RPLIDAR. The wheelchair can be controlled using voice commands, making it easier for individuals with mobility impairments to navigate. Additionally, the wheelchair is equipped with an ultrasonic sensor to avoid obstacles, and an RPLIDAR is used to create a map of the wheelchair's surroundings.
 
